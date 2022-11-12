@@ -33,7 +33,7 @@ lx.w(dt.id, ID);
 //dt.oaType = 1;			// 1 请假，2 外出
 //dt.reason = "";
 dt.beginTime = timenow - 3600000;
-dt.endTime = timenow + 14400000;
+dt.endTime = timenow + 7200000;
 dt.recordStatus = 4;
 //dt.leaveIntroVo = null;
 //dt.now = null;
