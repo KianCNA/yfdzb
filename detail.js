@@ -50,7 +50,7 @@ Date.prototype.format=function(fmt){var o={'M+':this.getMonth()+1,'d+':this.getD
 dt.applyStatus = 4;
 //dt.parentsKnow = true;
 dt.beginTime = timenow - 3600000;
-dt.endTime = timenow + 14400000;
+dt.endTime = timenow + 7200000;
 //dt.alias = "事假";
 //dt.leaveSchool = true;
 //dt.location = "";
